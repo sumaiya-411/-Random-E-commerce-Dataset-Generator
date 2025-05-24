@@ -11,4 +11,4 @@ This project contains a randomly generated dataset simulating customer informati
 | Gender           | Gender (Male/Female)                         |
 | Location         | City where the customer resides              |
 | PurchaseAmount   | Total amount spent by the customer           |
-| Membership       | Membership tier (Basic, Silver
+| Membership       | Membership tier (Basic, Silver               |
